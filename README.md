@@ -84,7 +84,7 @@ The design simulates traffic signal control at a four-way intersection, managing
 
 ## Waveform
 
-![Traffic Waveform](traffic_light_controller_waveform.png)
+![Traffic Waveform](traffic_waveform.png)
 
 ---
 
